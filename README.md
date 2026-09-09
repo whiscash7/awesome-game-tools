@@ -1,6 +1,7 @@
 # awesome-game-tools
 
 
+## Game Tools
 
 Hello! I will be covering game tools that than are good for game developers to use. These tools are not exclusive to game programmers, but mostly can be used by all game developers.
 
@@ -88,4 +89,7 @@ Autodesk Maya is a tool for 3D modeling. It is an industry standard for large st
 Reaper is a tool that can be used by game developers to mix music or sound effects for their games. It costs $60 dollars, but offers a 60 day free trial, and is heavily recommended as a good DAW (Digital Audio Workstation). It is recommended despite its cost because instead of it being a subscription, it is a one time purchase, and the tools it provides is often said to be worth the cost. 
 
 [https://www.reaper.fm/](https://www.reaper.fm/)
+
+## Game Disciplines
+
 
